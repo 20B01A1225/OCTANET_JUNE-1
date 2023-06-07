@@ -47,10 +47,11 @@ body{
     text-align:center;
 }
 .quote{
-    color:white;
-    font-family:"Helvetica Neue";
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
     position:relative;
-    top:10%;
+    top:17%;
+    background-color: #3d3f3f49;
 }
 .card-list{
     width:100%;
@@ -82,4 +83,11 @@ body{
 .form input{
     padding:10px;
     margin:10px;
+}
+.img{
+    height: 10px;
+}
+.h1{
+    color: black;
+    font-family: sans-serif;
 }
